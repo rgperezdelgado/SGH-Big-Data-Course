@@ -20,7 +20,7 @@ This project involved an in-depth analysis of the 1994 USA Census Income Data Se
      - Salary distribution across different education levels.
      - Gender distribution across occupations.
      - Proportions of individuals earning more or less than $50K by race, education, and marital status.
-   - Generated visualizations to support the findings, including several pie charts and bar chart.
+   - Generated visualizations to support the findings, including several pie charts and bar charts.
 
 3. **Predictive Modeling:**
    - Created a pandas dataframe from the dataset for modeling.
