@@ -1,8 +1,6 @@
-# Big Data Projects at SGH Warsaw School of Economics
+### **Big Data Analysis of the 1994 USA Census Income Data Set**
 
 - **Notebook Link**: [View Notebook on Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/753555617520967/2613570139713025/4332491155661788/latest.html?classId=6d95e7f2-4dcb-46a4-8323-a5ea48c1f354&assignmentId=8423c969-43a7-4269-aace-31df2082793c&submissionId=0be25e27-2912-bd18-f2de-84e5c176c21d)
-
-### **Big Data Analysis of the 1994 USA Census Income Data Set**
 
 **Authors:** Roberto Perez Delgado, Sanchez Manyika, and Jose Martin Campos Silva
 
